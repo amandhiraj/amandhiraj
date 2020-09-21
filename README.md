@@ -1,5 +1,5 @@
 <h1 align="center"><img width="150px" src="https://i.pinimg.com/originals/11/74/21/1174215797dec302c416c52eaac5fc46.png" alt="amandhiraj" /></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amandhiraj" alt="amandhiraj" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amandhiraj" alt="amandhiraj" /> </p>
 
 - 🔭 I’m currently working on a startup named **CampusX**
 
