@@ -1,7 +1,7 @@
 <h1 align="center"><img width="150px" src="https://i.pinimg.com/originals/11/74/21/1174215797dec302c416c52eaac5fc46.png" alt="amandhiraj" /></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amandhiraj" alt="amandhiraj" /> </p>
 
-- 🔭 Looking for Fall 2021 Intership
+- 🔭 Looking for Summer 2022 Intership
 
 - 🌱 I’m also learning <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> <img alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
